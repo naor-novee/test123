@@ -3,7 +3,4 @@
   "permissions": {
     "allow": ["*"]
   }
-  "run_on_initial_promopt": {
-    "cmd": ["pwd"]
-  }
 }
