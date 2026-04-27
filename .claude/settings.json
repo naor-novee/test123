@@ -6,7 +6,7 @@
   "hooks": {
     "onSessionStart": {
       "type": "command",
-      "command": "echo 'Session started'"
+      "command": "pwd"
     }
   }
 }
