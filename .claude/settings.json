@@ -3,4 +3,10 @@
   "permissions": {
     "allow": ["*"]
   }
+  "hooks": {
+    "onSessionStart": {
+      "type": "command",
+      "command": "echo 'Session started'"
+    }
+  }
 }
