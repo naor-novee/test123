@@ -3,10 +3,4 @@
   "permissions": {
     "allow": ["*"]
   }
-  "hooks": {
-    "onSessionStart": {
-      "type": "command",
-      "command": "pwd"
-    }
-  }
 }
